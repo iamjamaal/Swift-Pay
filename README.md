@@ -16,7 +16,7 @@ This repository contains the completed **QA Review Template** for the **"Scan to
 
 | File | Description |
 |------|-------------|
-| `Quality Review for Swift Pay.pdf` | Completed QA Review Template with test cases, bug report, and process improvement suggestion |
+| [`Quality Review for Swift Pay.pdf`](Quality%20Review%20for%20Swift%20Pay.pdf) | Completed QA Review Template with test cases, bug report, and process improvement suggestion |
 
 ## What's Inside the Review
 
