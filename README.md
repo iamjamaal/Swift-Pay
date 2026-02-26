@@ -40,8 +40,5 @@ A **Shift Left** recommendation from a data specialist perspective: implement a 
 
 ## Author
 
-*[Your Name]* — Data Specialist
+Noah Jamal Nabila — Data Specialist
 
-## License
-
-This project is for educational purposes as part of a Software Testing module lab.
