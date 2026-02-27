@@ -34,10 +34,6 @@ This repository contains the completed **QA Review Template** for the **"Scan to
 
 A **Shift Left** recommendation from a data specialist perspective: implement a specification-to-mockup traceability matrix during the design phase to ensure every acceptance criterion maps to a corresponding UI state before development begins.
 
-## Tools & Technologies
-
-- **Document generation:** Node.js with `docx` library
-- **Specification source:** Feature Specification FS-P2M-v1.0 and UI Mockup Description
 
 ## Author
 
