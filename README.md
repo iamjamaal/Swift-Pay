@@ -16,11 +16,12 @@ This repository contains the completed **QA Review Template** for the **"Scan to
 
 | File | Description |
 |------|-------------|
-| [`Quality Review for Swift Pay.pdf`](Quality%20Review%20for%20Swift%20Pay.pdf) | Completed QA Review Template with test cases, bug report, and process improvement suggestion |
+| `Quality Review for Swift Pay.pdf` | Completed QA Review Template with test cases, bug report, and process improvement suggestion |
 
 ## What's Inside the Review
 
 ### Part 1 — Test Cases
+
 
 - **TC-01 (Happy Path):** End-to-end successful payment flow covering acceptance criteria AC-01 through AC-07.
 - **TC-02 (Negative / Edge Case):** Repeated incorrect PIN entry scenario, highlighting a missing retry-limit specification — a security concern for fintech applications.
@@ -40,5 +41,8 @@ A **Shift Left** recommendation from a data specialist perspective: implement a 
 
 ## Author
 
-Noah Jamal Nabila — Data Specialist
+*[Your Name]* — Data Specialist
 
+## License
+
+This project is for educational purposes as part of a Software Testing module lab.
